@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriscillaReboucas
-- 🌱 I’m currently learning JavaScript, HTML, CSS and React
+- 🌱 I’m currently learning JavaScript, React and REST API
 - 💞️ I’m looking to collaborate on Devops world
 - 📫 How to reach me: priscillabreboucas@gmail.com
 
