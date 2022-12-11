@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriscillaReboucas
-- 🌱 I’m currently learning JavaScript, React and REST API
-- 💞️ I’m looking to collaborate on Devops world
+- 🌱 I’m currently learning JavaScript, TypeScript, React and REST API
+- 💞️ I’m a Full Stack Developer at School of applied technology <Salt/> https://www.salt.dev/sv-SE
 - 📫 How to reach me: priscillabreboucas@gmail.com
 
 <!---
