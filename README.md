@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriscillaReboucas
+- 👋 Hi, I’m Priscilla Rebouças
 - 💞️ I’m a Full Stack Developer at School of applied technology <Salt/> https://www.salt.dev/sv-SE
 - 🌱 I have been focusing on: JavaScript, TypeScript, React and REST API.
 - 📫 How to reach me: priscillabreboucas@gmail.com
