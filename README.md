@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Priscilla Rebouças
-- 💞️ I’m a Full Stack Developer at School of applied technology  [< Salt />](salt.dev)
-- 🌱 I have been focusing on: JavaScript, TypeScript, React and REST API.
-- 📫 How to reach me: priscillabreboucas@gmail.com
+👋 Hi, I’m Priscilla Rebouças
+💞️ I’m a Full Stack Developer at School of applied technology  [< Salt />](salt.dev)
+🌱 I have been focusing on: JavaScript, TypeScript, React and REST API.
+📫 How to reach me: priscillabreboucas@gmail.com
 
 <!---
 PriscillaReboucas/PriscillaReboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
