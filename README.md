@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Priscilla Rebouças
 - 💞️ I’m a Full Stack Developer at School of applied technology  [< Salt />](salt.dev)
 - 🌱 I have been focusing on: JavaScript, TypeScript, React and REST API.
-- 📫 How to reach me: priscillabreboucas@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/PriscillaReboucas">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
 
 <!---
 PriscillaReboucas/PriscillaReboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
