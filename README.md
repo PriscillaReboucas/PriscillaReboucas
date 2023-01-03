@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=priscillareboucas&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillareboucas&layout=compact&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=priscillareboucas&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillareboucas&layout=compact&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
 </div>
 
 
