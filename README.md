@@ -14,8 +14,8 @@ I’m a Full Stack Developer at School of applied technology <a href="https://ww
 </p>
 
 ## 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-PriscillaRebouças-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-rebouças/)](https://www.linkedin.com/in/priscilla-rebouças/)
-[![Gmail Badge](https://img.shields.io/badge/-Priscillabreboucas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priscillabreboucas@gmail.com)](mailto:priscillabreboucas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-rebouças/)](https://www.linkedin.com/in/priscilla-rebouças/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priscillabreboucas@gmail.com)](mailto:priscillabreboucas@gmail.com)
 
 <!---
 PriscillaReboucas/PriscillaReboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
