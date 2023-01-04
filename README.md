@@ -11,6 +11,7 @@ I’m a Full Stack Developer at School of applied technology <a href="https://ww
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-E10098?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F9A03C?style=flat-square&logo=firebase&logoColor=white" />  
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-21130d?style=flat-square&logo=cypress&logoColor=white" />  
 </p>
 
 ## 📫 How to reach me:
