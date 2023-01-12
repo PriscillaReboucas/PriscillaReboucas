@@ -22,8 +22,10 @@ I’m a Full Stack Developer at School of applied technology <a href="https://ww
 PriscillaReboucas/PriscillaReboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+    <img width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=priscillareboucas&show_icons=true&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff">
 
-[<img align="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=priscillareboucas&show_icons=true&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+</div>
 
 
 
