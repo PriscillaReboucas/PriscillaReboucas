@@ -23,9 +23,8 @@ PriscillaReboucas/PriscillaReboucas is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=priscillareboucas&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillareboucas&layout=compact&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff"/>
-</div>
+[<img align="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=priscillareboucas&show_icons=true&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+
 
 ![Snake animation](https://github.com/PriscillaReboucas/PriscillaReboucas/blob/output/github-contribution-grid-snake.svg)
